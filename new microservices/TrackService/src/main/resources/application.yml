@@ -1,0 +1,40 @@
+#eureka:
+#    client:
+#        fetch-registry: true
+#        register-with-eureka: true
+#        service-url:
+#            defaultZone: http://localhost:8184/eureka/
+
+server:
+    port: 8088
+
+#song:
+#    - null
+#    -   id: 10
+#    name: Kill4
+#    singer: Mari Mans
+#    -   id: 21
+#    name: Good As H
+#    singer: Li
+#    -   id: 38
+#    name: Dream I
+#    singer: Han
+#    -   id: 48
+#    name: tains
+#    singer: Zimmer
+#    -   id: 57
+#    name: t
+#    singer: 'Chauhan '
+#    -   id: 62
+#    name: Setup
+#    singer: Kyd
+spring:
+    application:
+        name: tracl-service
+
+
+
+
+#    cloud:
+#        config:
+#            uri: http://localhost:8183

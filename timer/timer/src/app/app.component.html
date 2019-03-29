@@ -1,0 +1,14 @@
+<!-- <app-hello name="{{ name }}"></app-hello> -->
+
+<button (click)='startTimer()'>Start Timer</button>
+<!-- <button (click)='pauseTimer()'>Pause</button> -->
+
+<p>{{math.floor(timeLeft/60)}} Minutes  :  {{timeLeft%60}} Seconds Left....</p> 
+
+
+<!-- <timer countdown="30" interval="1000">
+  <div class="progress progress-striped active {{displayProgressActive}}"style="height: 30px;"> Remaining time : {{countdown}} second{{secondsS}} ({{progressBar}}%). Activity? {{displayProgressActive}}
+     <div class="bar" style="min-width: 2em; "></div> 
+</div>
+</timer> -->
+<mat-progress-bar mode="determinate" [value]="timebar"></mat-progress-bar>

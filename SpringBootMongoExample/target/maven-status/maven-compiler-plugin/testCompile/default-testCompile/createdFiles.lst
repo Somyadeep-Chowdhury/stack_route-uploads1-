@@ -1,0 +1,4 @@
+com/stackroute/muzix/repository/TrackRepositoryTest.class
+com/stackroute/muzix/MuzixApplicationTests.class
+com/stackroute/muzix/services/TrackDBServicesImplTest.class
+com/stackroute/muzix/controller/MuzixControllerTest.class

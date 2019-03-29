@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79f061f8-fb70-4e0a-abd1-ee4b3da2378e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/src/main/java/com/stackroute/MuzixApplication/MuzixApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/src/main/java/com/stackroute/MuzixApplication/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/src/main/java/com/stackroute/MuzixApplication/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/src/main/java/com/stackroute/MuzixApplication/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/src/main/java/com/stackroute/MuzixApplication/exceptions/GloballyExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/src/main/java/com/stackroute/MuzixApplication/exceptions/TrackNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/src/main/java/com/stackroute/MuzixApplication/exceptions/UpdateException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/src/main/java/com/stackroute/MuzixApplication/exceptions/UserAlreadyExistException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/src/main/java/com/stackroute/MuzixApplication/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/src/main/java/com/stackroute/MuzixApplication/seed/Seed1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/src/main/java/com/stackroute/MuzixApplication/seed/Seed2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/src/main/java/com/stackroute/MuzixApplication/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/src/main/java/com/stackroute/MuzixApplication/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/src/test/java/com/stackroute/MuzixApplication/MuzixApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/MuzixUser-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/MuzixUser-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/classes/com/stackroute/MuzixApplication/MuzixApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/classes/com/stackroute/MuzixApplication/config/SwaggerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/classes/com/stackroute/MuzixApplication/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/classes/com/stackroute/MuzixApplication/domain/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/classes/com/stackroute/MuzixApplication/exceptions/GloballyExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/classes/com/stackroute/MuzixApplication/exceptions/TrackNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/classes/com/stackroute/MuzixApplication/exceptions/UpdateException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/classes/com/stackroute/MuzixApplication/exceptions/UserAlreadyExistException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/classes/com/stackroute/MuzixApplication/repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/classes/com/stackroute/MuzixApplication/seed/Seed2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/classes/com/stackroute/MuzixApplication/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/classes/com/stackroute/MuzixApplication/service/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/UserService/target/test-classes/com/stackroute/MuzixApplication/MuzixApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-services/zuul-service/src/main/java/com/stackroute/zuulservice/ZuulServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-services/zuul-service/src/main/java/com/stackroute/zuulservice/ZuulServiceApplication.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/micro-services" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/micro-services/zuul-service/src/main/java/com/stackroute/zuulservice/ZuulServiceApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="637" />
+    <option name="height" value="641" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MicroServices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MicroServices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MicroServices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MicroServices" type="462c0819:PsiDirectoryNode" />
+              <item name="micro-services" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79f061f8-fb70-4e0a-abd1-ee4b3da2378e" name="Default Changelist" comment="" />
+      <created>1549280828115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549280828115</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2528581" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/micro-services/UserService/src/main/java/com/stackroute/MuzixApplication/domain/User.java" />
+    <entry file="file://$PROJECT_DIR$/micro-services/zuul-service/src/main/java/com/stackroute/zuulservice/ZuulServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-services/TrackService/src/main/java/com/stackroute/domain/Track.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

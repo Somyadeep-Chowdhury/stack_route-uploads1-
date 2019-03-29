@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="SpringFirstNew.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringFirstNew_war</output-path>
+    <root id="root">
+      <element id="archive" name="pringFirstNew.war" />
+    </root>
+  </artifact>
+</component>

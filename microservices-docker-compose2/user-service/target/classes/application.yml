@@ -1,0 +1,21 @@
+eureka:
+    client:
+        service-url:
+            defaultZone: http://localhost:9091/eureka
+spring:
+    application:
+        name: user-service
+    cloud:
+        config:
+            uri: http://localhost:8066
+user:
+ - null
+ -  id: 1
+    name: Kaustav
+    pass: 12345
+ -  id: 2
+    name: Soumodeep
+    pass: 67890
+ -  id: 3
+    name: Nilanjan
+    pass: qwerty

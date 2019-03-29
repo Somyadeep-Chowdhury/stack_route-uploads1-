@@ -1,0 +1,5 @@
+com/stackroute/PreFilter.class
+com/stackroute/ZuulServiceApplication.class
+com/stackroute/RouteFilter.class
+com/stackroute/PostFilter.class
+com/stackroute/ErrorFilter.class

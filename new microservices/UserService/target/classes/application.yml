@@ -1,0 +1,60 @@
+#eureka:
+#    client:
+#        serviceUrl:
+#            defaultZone: http://localhost:9091/eureka/
+#fetch-registry: true
+#management:
+#    security:
+#        enabled: false
+#register-with-eureka: true
+#server:
+#    port: 8193
+#spring:
+#    application:
+#        name: UserService
+#    data:
+#        mongodb:
+#            uri: mongodb://localhost:27017/mongodb2
+
+
+
+#eureka:
+#    client:
+#        fetch-registry: true
+#        register-with-eureka: true
+#        service-url:
+#            defaultZone: http://localhost:8184/eureka/
+
+server:
+    port: 8193
+
+#song:
+#    - null
+#    -   id: 10
+#    name: Kill4
+#    singer: Mari Mans
+#    -   id: 21
+#    name: Good As H
+#    singer: Li
+#    -   id: 38
+#    name: Dream I
+#    singer: Han
+#    -   id: 48
+#    name: tains
+#    singer: Zimmer
+#    -   id: 57
+#    name: t
+#    singer: 'Chauhan '
+#    -   id: 62
+#    name: Setup
+#    singer: Kyd
+spring:
+    application:
+        name: user-service
+
+
+
+
+#    cloud:
+#        config:
+#            uri: http://localhost:8183

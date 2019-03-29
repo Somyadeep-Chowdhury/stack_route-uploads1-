@@ -1,0 +1,22 @@
+eureka:
+    client:
+        fetch-registry: true
+        register-with-eureka: true
+        serviceUrl:
+            defaultZone: http://localhost:9091/eureka/
+management:
+    endpoints:
+        web:
+            exposure:
+                include: '*'
+server:
+    port: 8066
+spring:
+    application:
+        name: config-server
+    cloud:
+        config:
+            server:
+                git:
+                    force-pull: true
+                    uri: https://github.com/Somyadeep-Chowdhury/config-server-repo

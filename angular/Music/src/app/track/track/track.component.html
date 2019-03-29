@@ -1,0 +1,11 @@
+<mat-card class="example-card">
+  <mat-card-header>
+    <mat-card-title>{{trackName}}</mat-card-title>
+  </mat-card-header>
+  <img mat-card-image src="{{trackImage}}">
+  <mat-card-actions>
+    <button mat-fab color="primary"
+    matTooltip="Add to Playlist"
+    (click)="addTrack()">Add</button>
+  </mat-card-actions>
+</mat-card>

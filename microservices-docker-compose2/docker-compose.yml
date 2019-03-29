@@ -1,0 +1,69 @@
+version : "3"
+services:
+#  mongo:
+#    image: mongo
+#    ports:
+#      - "27017:27017"
+#    container_name: mongo
+#    network_mode: host
+
+  eureka-service:
+
+    build: eureka-service/
+    restart: always
+    network_mode: host
+    container_name: eureka-service-docker
+    ports:
+      - "9091:9091"
+    expose:
+      - 9091
+
+  config-server:
+    build: configserver/
+    restart: always
+    network_mode: host
+    container_name: config-server-docker
+    ports:
+      - "8066:8066"
+    expose:
+      - 8066
+  track-service:
+    build: track-service/
+    restart: always
+    network_mode: host
+    hostname: localhost
+    container_name: track-service-docker
+    depends_on:
+      - config-server
+      - eureka-service
+
+    ports:
+      - "8088:8088"
+    expose:
+      - 8088
+  user-service:
+    build: user-service/
+    restart: always
+    network_mode: host
+    hostname: localhost
+    container_name: user-service-docker
+    depends_on:
+      - config-server
+      - eureka-service
+
+    ports:
+      - "8909:8909"
+    expose:
+      - 8909
+  zuulservice:
+    build: zuulservice/
+    restart: always
+    network_mode: host
+    hostname: localhost
+    container_name: zuul-service-docker
+    ports:
+      - "8999:8999"
+    expose:
+      - 8999
+
+

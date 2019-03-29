@@ -1,0 +1,13 @@
+/home/somyadeep/Desktop/new microservices/UserService/src/main/java/com/stackroute/MuzixApplication/MuzixApplication.java
+/home/somyadeep/Desktop/new microservices/UserService/src/main/java/com/stackroute/MuzixApplication/seed/Seed2.java
+/home/somyadeep/Desktop/new microservices/UserService/src/main/java/com/stackroute/MuzixApplication/service/UserService.java
+/home/somyadeep/Desktop/new microservices/UserService/src/main/java/com/stackroute/MuzixApplication/config/SwaggerConfig.java
+/home/somyadeep/Desktop/new microservices/UserService/src/main/java/com/stackroute/MuzixApplication/exceptions/UserAlreadyExistException.java
+/home/somyadeep/Desktop/new microservices/UserService/src/main/java/com/stackroute/MuzixApplication/exceptions/TrackNotFoundException.java
+/home/somyadeep/Desktop/new microservices/UserService/src/main/java/com/stackroute/MuzixApplication/exceptions/GloballyExceptionHandler.java
+/home/somyadeep/Desktop/new microservices/UserService/src/main/java/com/stackroute/MuzixApplication/service/UserServiceImpl.java
+/home/somyadeep/Desktop/new microservices/UserService/src/main/java/com/stackroute/MuzixApplication/controller/UserController.java
+/home/somyadeep/Desktop/new microservices/UserService/src/main/java/com/stackroute/MuzixApplication/seed/Seed1.java
+/home/somyadeep/Desktop/new microservices/UserService/src/main/java/com/stackroute/MuzixApplication/repository/UserRepository.java
+/home/somyadeep/Desktop/new microservices/UserService/src/main/java/com/stackroute/MuzixApplication/exceptions/UpdateException.java
+/home/somyadeep/Desktop/new microservices/UserService/src/main/java/com/stackroute/MuzixApplication/domain/User.java
